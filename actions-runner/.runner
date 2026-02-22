@@ -1,0 +1,11 @@
+﻿{
+  "agentId": 21,
+  "agentName": "MORGANAZZ",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus24.actions.githubusercontent.com/NgEyDUx07Fhw57dXRNR16IfGwKmrTGuHMgmy02Ifmdo0aHD4GM/",
+  "gitHubUrl": "https://github.com/Chonapatcc/wisdom-book-cicd-6610450871",
+  "workFolder": "_work",
+  "useV2Flow": true,
+  "serverUrlV2": "https://broker.actions.githubusercontent.com/"
+}
